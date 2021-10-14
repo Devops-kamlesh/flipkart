@@ -1,8 +1,10 @@
-this is 2rd version v-1.2
+this is 3rd version v-1.3
+#cal
 #top
-#free 
 #ln -s copy.txt copy_link.txt
 #ls -l /home/ec2-user/tmp
+#git ls-files -->lsit all files that are track by git 
+#git push origin master --->here origin refers to remote repo url 
 
 creating ssh password less connection through ssh
 1st server
