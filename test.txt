@@ -1,1 +1,52 @@
-hi this my 1st file on github
+this is 2rd version v-1.2
+#top
+#free 
+#ln -s copy.txt copy_link.txt
+#ls -l /home/ec2-user/tmp
+
+creating ssh password less connection through ssh
+1st server
+----------
+
+ssh-keygen ---> to create ssh key
+enter
+enter
+enter
+
+step -2
+-----------------------
+to copy ssh key to other server
+---------------------------------
+ssh-copy-id -i ~/.ssh/id_rsa.pub ec2-user@172.31.32.122
+1st time asking password for ec2-user
+put that password
+
+step -3
+--------------
+restart the machine 
+
+step -4
+-----------
+connection to other machine through ssh-keygen 
+ssh ec2-user@172.31.32.122
+now connection establish
+
+
+
+creating ec2-user password
+-------------
+login to machine
+#sudo su -
+#passwd ec2-user
+#new password : type password here
+
+
+alternatives --set python /usr/bin/python3
+
+
+ 
+
+
+
+
+
