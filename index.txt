@@ -4,7 +4,7 @@
 
 <h1>My First Heading</h1>
 
-<p>updated content from new-feature branch</p>
+<p>updated latest</p>
 
 </body>
 </html>
