@@ -1,4 +1,8 @@
-updated code frm ray 
+updated code frm kamlesh
+git log --abrrev-commit
+git add -A
+git add .
+git commit -m "updated frm kamlesh"
 cal
 git config --global alias.hist "log --all --decorate --oneline --graph"
 #kamleshray55
