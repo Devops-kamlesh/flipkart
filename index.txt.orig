@@ -5,10 +5,10 @@
 <h1>My First Heading</h1>
 
 <<<<<<< HEAD
-<p>updated content from master</p>
+<p>hi this is lastes update</p>
 =======
-<p>updated frm new-feature</p>
->>>>>>> new-feature
+<p>hi this is update frm kamlesh</p>
+>>>>>>> kamlesh
 
 </body>
 </html>
