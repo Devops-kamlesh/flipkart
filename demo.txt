@@ -1,3 +1,7 @@
+File update date:28/10/2021
+Author :kamlesh ray
+
+cat demo.txt ---> use for view content of demo.txt file
 hello kamlesh ray
 #this file add in new-feature branch 
 not available on master branch i'm pushing to git hub
