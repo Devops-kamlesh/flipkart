@@ -1,3 +1,7 @@
+file created date:28/10/2021
+author:kamlesh ray
+use-case:git
+
 make alias in git 
 ------------------
 git config --global --list ---> to view all alias
@@ -6,4 +10,5 @@ git config --global alias.cls 'status' ---> to create alias
 previously --> git status (to view status)
 now ---> git cls    (this cmd will give same output as git status provide)
 all alias store in --->  vim ~/.gitconfig
-C:/Users/kamle/.gitconfig  --->git config file location in your system 
+C:/Users/kamle/.gitconfig  --->git config file location in your system
+---------xxxxxxxxxxxxxxxxx------------------
