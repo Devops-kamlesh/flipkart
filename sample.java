@@ -17,7 +17,7 @@ public class Employee {
 	}
 
 	public String getName() {
-		return name;
+		return value;
 	}
 
 	public void setName(String name) {
