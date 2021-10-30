@@ -1,6 +1,11 @@
 File update date:30/10/2021
 Author :kamlesh ray
+<<<<<<< Updated upstream
 Time :16.57
+=======
+Time :17.04
+update:master 
+>>>>>>> Stashed changes
 cat demo.txt ---> use for view content of demo.txt file
 hello kamlesh ray
 #this file add in new-feature branch 
