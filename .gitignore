@@ -1,9 +1,9 @@
 #git-doc
-        maven-enterprise-application-master/MavenEnterpriseApp-web/target/
-        maven-standalone-application-master/target/
-        maven-web-application-master/maven_local/
-        maven-web-application-master/target/
-        spring-boot-mongo-docker/
+maven-enterprise-application-master/MavenEnterpriseApp-web/target/
+maven-standalone-application-master/target/
+maven-web-application-master/maven_local/
+maven-web-application-master/target/
+spring-boot-mongo-docker/
 
 *.class
 demo_test.txt
